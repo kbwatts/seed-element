@@ -1,6 +1,6 @@
 {
   "name": "seed-element",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "authors": [
     "Anonymous <anonymous@example.com>"
   ],
@@ -22,6 +22,6 @@
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-    "web-component-tester": "*"
+    "web-component-tester": "^3.4.0"
   }
 }
